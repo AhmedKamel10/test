@@ -1,0 +1,100 @@
+
+
+
+#b1{
+    border-radius: 0%;
+    background-color: blue;
+    position: relative ; left: 78.5%;
+    font-size: larger;
+}
+body{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+     scroll-behavior: smooth;
+}
+.back{
+    color:#fff;
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: 70px;
+    margin-bottom: 20px;
+    width: 48.5%;
+    height: 195px;
+}
+
+
+.b{
+    position: relative ;top: -400px; left:7.5%;
+    background-color: #fff;
+    border-radius: 13%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: #02041c;
+    width: 120px;
+    height: 60px;
+}
+button:hover {
+    background-color: #040133;
+color: #fff;}
+.background{
+    background-image: url('https://burst.shopifycdn.com/photos/creative-brain-storm.jpg?width=925&format=pjpg&exif=1&iptc=1');
+    position: relative; top:0px; left: 27%;
+    height: 500px;
+    background-repeat: no-repeat;
+    display: block;
+    max-width: 49%;
+    
+
+    
+    
+}
+
+html,body {
+    background-color: #040133;
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+p{
+    position: relative;left: 80%;
+    color: white;
+}
+.sidenav {
+    height: 100%;
+    width: 30%;
+    position: fixed;
+    z-index:1;
+    top:0;
+    left:0;
+    background-image: linear-gradient(#02041c, #012e5b);
+    overflow-x:hidden;
+    padding-top: top 500px;
+    font-size: 5px;
+    text-align: center;
+    color: #fff;
+}
+.sidenav a{
+    padding:10px 10px 10px 20px;
+    text-decoration: none;
+    font:bold;
+    color: rgb(238, 251, 255);
+    display:block;
+    font-size: 16pt;
+    margin-top: 30px;
+}
+.search{
+    position: relative; left:900px;
+    border-radius: 3%;
+    outline: 0; 
+    
+    background: var(--color-light);
+    
+    
+    appearance: none;
+
+    z-index:  1;
+    color: #fff;
+    font-weight:lighter;
+    height: 40px;
+} 
+
